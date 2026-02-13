@@ -1,13 +1,5 @@
-# Hi there! I'm Zeynep Özge Toptaş 👋
+# Hi there! 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,3&height=300&section=header&text=Zeynep%20Özge%20Toptaş&fontSize=70&animation=fadeIn&fontAlignY=35)
-
----
-
-### 🛠️ What I'm Up To
-> **Computer Engineering Student** @ Gebze Technical University
-> **42 École** | Common Core Student
-> **GTU Computer Society (GTUBT)** | President
-> **Huawei Student Developers (HSD)** | Campus Ambassador
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=ZEYNEP+ÖZGE+TOPTAŞ;Computer+Engineering+Student;GTUBT+President;42+École+Student" alt="Typing SVG" />
+</p>
